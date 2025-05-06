@@ -1,4 +1,4 @@
-package com.iot.service;
+package com.kukhar.service;
 
 public interface DataProcessingService {
 

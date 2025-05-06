@@ -1,4 +1,4 @@
-package com.iot.service.strategy;
+package com.kukhar.service.strategy;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

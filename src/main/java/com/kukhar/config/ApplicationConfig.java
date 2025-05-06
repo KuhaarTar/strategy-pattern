@@ -1,6 +1,6 @@
-package com.iot.config;
+package com.kukhar.config;
 
-import com.iot.service.strategy.ExporterStrategy;
+import com.kukhar.service.strategy.ExporterStrategy;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

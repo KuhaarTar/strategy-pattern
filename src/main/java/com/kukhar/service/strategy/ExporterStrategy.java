@@ -1,4 +1,4 @@
-package com.iot.service.strategy;
+package com.kukhar.service.strategy;
 
 public interface ExporterStrategy {
 

@@ -1,4 +1,4 @@
-package com.iot.service.strategy;
+package com.kukhar.service.strategy;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.kafka.core.KafkaTemplate;

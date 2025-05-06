@@ -1,6 +1,6 @@
-package com.iot.api;
+package com.kukhar.api;
 
-import com.iot.service.DataProcessingService;
+import com.kukhar.service.DataProcessingService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
